@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨 About Me:
 I'm geoitprof<br>Self-learning college IT student<br>Studying data analysis and software engineering
 
 
