@@ -1,5 +1,5 @@
 # 👨 About Me:
-I'm geoitprof<br>Self-learning college IT student<br>Studying software development
+I'm geoitprof<br>Self-learning college IT student<br>
 
 
 # 💻 Tech Stack:
